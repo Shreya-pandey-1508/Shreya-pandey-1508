@@ -12,12 +12,6 @@
 
 <br />
 
-### My Podcast
-
-[<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dw2FJ8xzcBdc&psig=AOvVaw0PrDqOFK-Pc4BdkjxwhUSb&ust=1625578974301000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCMDJhd2HzPECFQAAAAAdAAAAABAD" alt="Salt-N-Pepa" width="350" />](https://open.spotify.com/album/2W2EmEpud13QHlhCFS9P8g?highlight=spotify:track:6CUWzTRmC1GjjSDTtiVfsI)
-
-
-
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
