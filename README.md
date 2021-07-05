@@ -14,7 +14,7 @@
 
 ### My Podcast
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="The Student Spotlight Podcast" width="350" />](https://open.spotify.com/show/48DzS7x134TsQuE7uvz9Wi)
+[<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dw2FJ8xzcBdc&psig=AOvVaw0PrDqOFK-Pc4BdkjxwhUSb&ust=1625578974301000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCMDJhd2HzPECFQAAAAAdAAAAABAD" alt="Salt-N-Pepa" width="350" />](https://open.spotify.com/album/2W2EmEpud13QHlhCFS9P8g?highlight=spotify:track:6CUWzTRmC1GjjSDTtiVfsI)
 
 
 
